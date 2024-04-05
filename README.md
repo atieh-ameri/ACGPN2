@@ -18,6 +18,9 @@ Putting it all Together:  Finally, ACGPN combines the warped clothes image with 
 ## Dataset
 **VITON Dataset** This dataset is presented in [VITON](https://github.com/xthan/VITON), containing 19,000 image pairs, each of which includes a front-view woman image and a top clothing image. After removing the invalid image pairs, it yields 16,253 pairs, further splitting into a training set of 14,221 paris and a testing set of 2,032 pairs.
 
+## Google Drive Link
+This is the google drive link which has files to run the model. [GoogleDrive](https://drive.google.com/drive/folders/1DnAAE3xFyMa76pYzhIXZOBJy_sx4SiJL?usp=drive_link) 
+
 ![Example outputs](1.png)
 ![Example outputs](2.png)
 ![Example outputs](3.png)
