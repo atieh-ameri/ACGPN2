@@ -1,3 +1,18 @@
+## Model Implementation
+1. Download the working_viton.ipynb file: You need to obtain the Jupyter Notebook file named "working_viton.ipynb". This file likely contains code for a specific task or project related to the Viton dataset or a similar topic.
+
+2. Run the commands sequentially: Import the notebook into Google Colab, a cloud-based platform for running Jupyter Notebooks. Once imported, go through the notebook and execute each code cell in sequence by clicking on the "Play2" button or pressing Shift+Enter.
+
+3. Connect to Google Drive: At some point in the notebook, there might be code to connect to Google Drive. Follow the instructions provided in the notebook to access the provided Google Drive link, download the required files, and upload them to your Google Drive account.
+
+4. Access files from Google Drive: After uploading the files to your Google Drive, update the file paths in the notebook to point to the correct location in your Drive.
+
+5. Upload two images: Look for the code in the notebook where it requires uploading two images: one labeled as "000001_0" representing a person image, and the other labeled as "000001_1" representing a cloth image. Follow the instructions to upload these images to the notebook environment.
+
+6. Handle file format error: As you mentioned, there might be an error related to file formats, where you need to change the format from JPEG to PNG. Follow the instructions provided in the notebook to make this change.
+
+7. Check the output: After resolving any errors and making necessary changes, run the code again and check the output. Ensure that the desired results are obtained and that the task or project is progressing as expected.
+
 ## ModelExplaination
 ACGPN, which stands for Adaptive Content Generating and Preserving Network, is a deep learning model designed for virtual try-on applications. It's essentially a type of artificial intelligence (AI) that allows you to see how clothes would look on you in a photo  using image processing techniques.
 
