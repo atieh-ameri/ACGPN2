@@ -1,4 +1,4 @@
-##ModelExplaination
+## ModelExplaination
 ACGPN, which stands for Adaptive Content Generating and Preserving Network, is a deep learning model designed for virtual try-on applications. It's essentially a type of artificial intelligence (AI) that allows you to see how clothes would look on you in a photo  using image processing techniques.
 
 Here's a breakdown of how it works:
