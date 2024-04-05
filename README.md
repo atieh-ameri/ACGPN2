@@ -9,7 +9,7 @@
 
 5. Upload two images: Look for the code in the notebook where it requires uploading two images: one labeled as "000001_0" representing a person image, and the other labeled as "000001_1" representing a cloth image. Follow the instructions to upload these images to the notebook environment.
 
-6. Handle file format error: As you mentioned, there might be an error related to file formats, where you need to change the format from JPEG to PNG. Follow the instructions provided in the notebook to make this change.
+6. Handle file format error: There might be an error related to file formats, where you need to change the format from JPEG to PNG. Follow the instructions provided in the notebook to make this change.
 
 7. Check the output: After resolving any errors and making necessary changes, run the code again and check the output. Ensure that the desired results are obtained and that the task or project is progressing as expected.
 
